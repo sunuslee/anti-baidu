@@ -1,5 +1,7 @@
 [作环保的程序员，从不用百度开始](http://coolshell.cn/articles/9308.html)
 
+[I made it to Anti-Windows As well](http://sunus.me)
+
 ==========
 
 anti baidu script.
@@ -7,6 +9,10 @@ anti baidu script.
 Original Author: [@左耳朵耗子](http://weibo.com/haoel)
 
 http://www.coolshell.cn
+
+#About
+forked from [anti-baidu](https://github.com/lurongkai/anti-baidu)
+modified by sunus Lee.
 
 #Usage
 
